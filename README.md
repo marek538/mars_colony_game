@@ -1,5 +1,3 @@
-# MARS COLONY
-### Marek Bulant
 
 # MARS COLONY
 ### Marek Bulant
